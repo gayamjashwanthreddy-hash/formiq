@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+coverage
+*.log
+check-db.js
+test-*.js
+.formiq_data
